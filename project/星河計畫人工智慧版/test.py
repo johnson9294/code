@@ -5,7 +5,7 @@ hellopython="Hello Python" #右邊是變數值，也是字串
 # number 數字
 a=100
 b=1
-#print
+# print
 print(helloworld) #xxxx()是一個函式
 print(a+b)
 # array 陣列
@@ -36,9 +36,11 @@ else:
   print("沒有資料")
 
 # 2024-9-1 學習進度
-# list 列表的基本涵式
+# list 列表和列表的基本涵式
+list = [1,2,3] # 用中括號來包住資料
 # tuple 元組
-
+tuple = (1,2,3) # 用小括號來包住資料
+# tuple不同於list，資料不能被新程式碼新增、刪除、變更，適合儲存經緯度等資料
 
 
 # if else
